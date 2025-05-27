@@ -1,7 +1,9 @@
-## 这事一段个人主页介绍
-
+### 这事一段个人主页介绍
+也许以后会有补充内容也说不定(
+<!--
+过于丢人 不想展示(悲
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kechuan)](https://github.com/kechuan/github-readme-stats)
-
+-->
 
 
 <!--
