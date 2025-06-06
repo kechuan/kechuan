@@ -1,10 +1,13 @@
 ### 这事一段个人主页介绍
 也许以后会有补充内容也说不定(
 <!--
-过于丢人 不想展示(悲
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kechuan)](https://github.com/kechuan/github-readme-stats)
+过于丢人 不想展示(悲 至少要到b再说吧
+[![kechuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kechuan)](https://github.com/kechuan/github-readme-stats)
 -->
 
+<!--什么时候dart/kt成了第一第二语言再展示吧。。
+![kechuan's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kechuan&bg_color=0000&text_color=f25d8e&title_color=ffafc9&hide_border=true&layout=compact)
+-->
 
 <!--
 **kechuan/kechuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
